@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.navbar {
+    width: 250px;
+}
+.nav-link {
+    margin: 10px 0;
+}
+.container-fluid {
+    margin-left: 260px;
+}
+#contact{
+    text-decoration: none;
+}
